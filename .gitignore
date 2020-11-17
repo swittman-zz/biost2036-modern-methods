@@ -181,3 +181,6 @@ cython_debug/
 
 .vscode
 
+# Other ignores
+.snakemake/
+output/
